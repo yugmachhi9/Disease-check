@@ -1,6 +1,1 @@
-In this project we first perform data pre-process to improve performance 
-then import multiple ML models
-find their performance 
-select one model
-make frontend
-then check disease
+Developed a Disease Severity Checker using Machine Learning by training and comparing multiple models. Performed data visualization to analyze feature patterns and improve model accuracy. Integrated the final model into an interactive Streamlit web app to predict disease severity (Low/High)
